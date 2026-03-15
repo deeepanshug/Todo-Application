@@ -1,9 +1,11 @@
 Technology i have used so far.
   - Java
+  - Spring Boot
   - Jpa (Hibernate)
   - Sql
   - MySql workbench
   - Thymeleaf
+  - Maven
   - lombok
   - intelij
   - Html
